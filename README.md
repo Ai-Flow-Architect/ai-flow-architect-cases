@@ -8,8 +8,8 @@
 
 | # | 案件 | 領域 | 構成図 |
 |---|------|------|-------|
-| 01 | GA4 × BigQuery × AI 分析基盤 | データ基盤 / AI分析 | [cases/01-ga4-bq-ai-platform.md](cases/01-ga4-bq-ai-platform.md) |
-| 02 | X リポスト・ハッシュタグ投稿者抽出 | スクレイピング設計 | [cases/02-x-data-extraction.md](cases/02-x-data-extraction.md) |
+| 01 | X リポスト・ハッシュタグ投稿者抽出 | スクレイピング設計 | [cases/01-x-data-extraction.md](cases/01-x-data-extraction.md) |
+| 02 | GA4 × BigQuery × AI 分析基盤 | データ基盤 / AI分析 | [cases/02-ga4-bq-ai-platform.md](cases/02-ga4-bq-ai-platform.md) |
 
 ## 提供サービス領域
 

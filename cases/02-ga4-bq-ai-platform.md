@@ -1,4 +1,4 @@
-# Case 01: GA4 × BigQuery × AI 分析基盤
+# Case 02: GA4 × BigQuery × AI 分析基盤
 
 ## 案件概要
 
