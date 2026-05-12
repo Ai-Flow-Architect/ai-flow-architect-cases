@@ -10,6 +10,7 @@
 |---|------|------|-------|
 | 01 | X リポスト・ハッシュタグ投稿者抽出 | スクレイピング設計 | [cases/01-x-data-extraction.md](cases/01-x-data-extraction.md) |
 | 02 | GA4 × BigQuery × AI 分析基盤 | データ基盤 / AI分析 | [cases/02-ga4-bq-ai-platform.md](cases/02-ga4-bq-ai-platform.md) |
+| 03 | 帳票自動生成 + メール下書き一括保存 | バックオフィス自動化 | [cases/03-doc-generation-mail-imap.md](cases/03-doc-generation-mail-imap.md) |
 
 ## 提供サービス領域
 
